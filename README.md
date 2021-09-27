@@ -10,7 +10,7 @@
 
 1. Click the Join a Course button
 2. Use our join code: WLV463
-3. If you finish,  you can continue working on your lab, an independent project, or find me some good programming memes
+3. If you finish,  you can continue working on your lab, **check out comments I left on your lab**, work on an independent project, or find me some good programming memes
 
 
 ## Class
