@@ -14,7 +14,7 @@
 
 
 ## Class
-* [MethodsAndOO](https://replit.com/team/APCSA-Block8-2122/MethodsAndOO)
+* [MethodsAndOO2](https://replit.com/team/APCSA-Block8-2122/MethodsAndOO2)
 ## Resources
 * [Mr. D's Quick Notes](https://replit.com/@APCSA-Block8-2122/Coursework01MrDsQuickNotes)
 ## Extras
