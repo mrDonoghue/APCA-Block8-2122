@@ -1,6 +1,6 @@
 # Links link
 ## Warm-up
-* Open up [PreLab1](https://replit.com/team/APCSA-Block8-2122/PreLab1Connect) and refresh your memory. What does our main method currently do? (You might think in terms of the diagrams we drew last time)
+* Open up [PreLab1](https://replit.com/team/APCSA-Block8-2122/PreLab1Connect) and refresh your memory. What's the problem with our move method?
 
 
 
