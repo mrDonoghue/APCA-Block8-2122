@@ -6,6 +6,7 @@
 
 ## Class
 * [PreLab1Connect](https://replit.com/team/APCSA-Block8-2122/PreLab1Connect)
+* [Lab1Connect](https://replit.com/team/APCSA-Block8-2122/Lab1Connect)
 ## Resources
 * [Mr. D's Quick Notes](https://replit.com/@APCSA-Block8-2122/Coursework01MrDsQuickNotes)
 ## Extras
