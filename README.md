@@ -1,6 +1,7 @@
 # Links link
 
 ## Class
+* [Whiteboard.fi](https://whiteboard.fi/z2ycr)
 * [QuickMaths](https://replit.com/team/APCSA-Block8-2122/QuickMaths)
 ## Resources
 * [Mr. D's Quick Notes](https://replit.com/@APCSA-Block8-2122/Coursework01MrDsQuickNotes)
