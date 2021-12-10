@@ -2,8 +2,8 @@
 ## Warmup
 * None
 ## Class
-* [ProgressCheck1b](https://replit.com/team/APCSA-Block8-2122/ProgressCheck1b)
-* [NumeracyMiniLab](https://replit.com/team/APCSA-Block8-2122/NumerancyMiniLab)
+* [Formative](https://app.formative.com/formatives/61b37b040e1fd7618b0fe46a) KEEP THIS OPEN!
+* [StringBasics](https://replit.com/team/APCSA-Block8-2122/StringBasics)
 
 
 ## Resources
