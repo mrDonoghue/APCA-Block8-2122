@@ -3,6 +3,7 @@
 * None
 ## Class
 * [Formative](https://app.formative.com/formatives/61b37b040e1fd7618b0fe46a) KEEP THIS OPEN!
+* [MiniLab](https://replit.com/team/APCSA-Block8-2122/BibliophileMiniLab)
 * [StringBasics](https://replit.com/team/APCSA-Block8-2122/StringBasics)
 
 
