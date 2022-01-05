@@ -2,8 +2,7 @@
 ## Warmup
 * None
 ## Class
-* [Formative](https://app.formative.com/formatives/61b37b040e1fd7618b0fe46a) KEEP THIS OPEN!
-* [BibliophileMiniLab](https://replit.com/team/APCSA-Block8-2122/BibliophileMiniLab)
+* [Formative](https://app.formative.com/formatives/61d5ff45f10073740687bfce) KEEP THIS OPEN!
 * [StringBasics](https://replit.com/team/APCSA-Block8-2122/StringBasics)
 
 
