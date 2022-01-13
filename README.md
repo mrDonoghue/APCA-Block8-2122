@@ -2,7 +2,6 @@
 ## Warmup
 * None
 ## Class
-* [Formative](https://app.formative.com/formatives/61ddb367fe26bd34c73f455b) KEEP THIS OPEN!
 * [StringBasics](https://replit.com/team/APCSA-Block8-2122/StringBasics)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
 
