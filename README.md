@@ -2,7 +2,7 @@
 ## Warmup
 * None
 ## Class
-* [StringBasics](https://replit.com/team/APCSA-Block8-2122/StringBasics)
+* [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
 
 
