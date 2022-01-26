@@ -3,6 +3,7 @@
 * None
 ## Class
 * [Formative](https://app.formative.com/formatives/61f1727f8f1e978cbabc744a)
+* [IfScratch](https://replit.com/team/APCSA-Block8-2122/IfScratch)
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
