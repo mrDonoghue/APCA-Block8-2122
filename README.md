@@ -2,12 +2,15 @@
 ## Warmup
 * None
 ## Class
-* [Formative](https://app.formative.com/formatives/61f1727f8f1e978cbabc744a)
-* [IfScratch](https://replit.com/team/APCSA-Block8-2122/IfScratch)
+* [BooleanPractice](https://replit.com/team/APCSA-Block8-2122/BooleanPractice)
+* [Unit2 Progress Check Part a](https://apclassroom.collegeboard.org/8/assessments/assignments/36223184)
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
+
+
+https://apclassroom.collegeboard.org/8/assessments/assignments/36223184
 
 
 
