@@ -4,11 +4,14 @@
 ## Class
 * [BooleanPractice](https://replit.com/team/APCSA-Block8-2122/BooleanPractice)
 * [Unit2 Progress Check Part a](https://apclassroom.collegeboard.org/8/assessments/assignments/36223184)
+* [Unit2 Progress Check Part b](https://apclassroom.collegeboard.org/8/assessments/assignments/36223183)
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
 
+
+https://apclassroom.collegeboard.org/8/assessments/assignments/36223184
 
 
 
