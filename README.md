@@ -11,10 +11,6 @@
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
 
 
-https://apclassroom.collegeboard.org/8/assessments/assignments/36223184
-
-
-
 ## Extras
 * [0](https://replit.com/team/APCSA-Block8-2122/0)
 * [1](https://replit.com/team/APCSA-Block8-2122/1)
