@@ -5,6 +5,7 @@
 Please open both the formative and repl
 * [Today's formative](https://app.formative.com/formatives/62223dda3e76b0c98a4aa1b4) **LEAVE OPEN**
 * [Today's repl](https://replit.com/team/APCSA-Block8-2122/ClassIntro) **LEAVE OPEN**
+* [Thinking about using a variable/method](https://gist.github.com/mrDonoghue/a8624071c0c342dfcb394d7df59f2bef)
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
