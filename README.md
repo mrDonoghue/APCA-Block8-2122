@@ -2,7 +2,8 @@
 ## Warmup
 * None
 ## Class
-* [Today's formative](https://app.formative.com/formatives/621d31ffb7c2118d51082437) **LEAVE OPEN**
+Please open both the formative and repl
+* [Today's formative](https://app.formative.com/formatives/62223dda3e76b0c98a4aa1b4) **LEAVE OPEN**
 * [Today's repl](https://replit.com/team/APCSA-Block8-2122/ClassIntro) **LEAVE OPEN**
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
