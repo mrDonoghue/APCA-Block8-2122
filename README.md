@@ -1,11 +1,8 @@
 # Links link
 ## Warmup
-* None
+* Finish VendingMachine in our [old repl](https://replit.com/team/APCSA-Block8-2122/ClassIntro)
 ## Class
-Please open both the formative and repl
-* [Today's formative](https://app.formative.com/formatives/62223dda3e76b0c98a4aa1b4) **LEAVE OPEN**
-* [Today's repl](https://replit.com/team/APCSA-Block8-2122/ClassIntro) **LEAVE OPEN**
-* [Thinking about using a variable/method](https://gist.github.com/mrDonoghue/a8624071c0c342dfcb394d7df59f2bef)
+* In [this repl](https://replit.com/team/APCSA-Block8-2122/FRQ2-Practice) complete the FRQs described [here](files/frq2.pdf)
 * [Unit 3 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223185/)
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
@@ -24,3 +21,4 @@ Please open both the formative and repl
 * [Mr. D's Quick Notes](https://replit.com/@APCSA-Block8-2122/Coursework01MrDsQuickNotes)
 * ["Textbook"](https://csawesome.runestone.academy/runestone/books/published/csawesome/index.html)
 * [AP CS A: Quick Reference Sheet](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf)
+* [Thinking about using a variable/method](https://gist.github.com/mrDonoghue/a8624071c0c342dfcb394d7df59f2bef)
