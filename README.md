@@ -1,9 +1,10 @@
 # Links link
 ## Warmup
-* Finish VendingMachine in our [old repl](https://replit.com/team/APCSA-Block8-2122/ClassIntro)
+* Go to the [FRQ2 Repl](https://replit.com/team/APCSA-Block8-2122/FRQ2-Practice)
 ## Class
 * In [this repl](https://replit.com/team/APCSA-Block8-2122/FRQ2-Practice) complete the FRQs described [here](files/frq2.pdf)
 * [Unit 3 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223185/)
+* [Array Repl](https://replit.com/team/APCSA-Block8-2122/ArrayScratch)
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
