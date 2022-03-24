@@ -1,10 +1,10 @@
 # Links link
 ## Warmup
-* Go to the [FRQ2 Repl](https://replit.com/team/APCSA-Block8-2122/FRQ2-Practice)
+* Open [ArrayScratch repl](https://replit.com/team/APCSA-Block8-2122/FRQ2-Practice)
 ## Class
-* In [this repl](https://replit.com/team/APCSA-Block8-2122/FRQ2-Practice) complete the FRQs described [here](files/frq2.pdf)
-* [Unit 3 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223185/)
 * [Array Repl](https://replit.com/team/APCSA-Block8-2122/ArrayScratch)
+* [ArrayPractice](https://replit.com/team/APCSA-Block8-2122/ArrayPractice)
+* [Unit 4 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223186/)
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
@@ -13,6 +13,8 @@
 * [Loop Practice](https://replit.com/team/APCSA-Block8-2122/LoopPractice)
 * [Unit2 Progress Check Part b](https://apclassroom.collegeboard.org/8/assessments/assignments/36223183)
 * [Bonus Practice](https://apclassroom.collegeboard.org/8/assessments/assignments/44830208/)
+* In [this repl](https://replit.com/team/APCSA-Block8-2122/FRQ2-Practice) complete the FRQs described [here](files/frq2.pdf)
+* [Unit 3 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223185/)
 
 ## Extras
 * [0](https://replit.com/team/APCSA-Block8-2122/0)
