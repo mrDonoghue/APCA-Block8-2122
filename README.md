@@ -3,10 +3,14 @@
 * Open up your spreadsheet from the [shared folder](https://drive.google.com/drive/folders/1Mjjk9aMo4twE6UWEnXV9YLTr4X2uZvMW?usp=sharing) and ***update your ratings*** for the units in the **0: Plan** sheet
 
 ## Class
-* [ArrayScratch](https://replit.com/team/APCSA-Block8-2122/ArrayScratch)
+[ArrayScratch](https://replit.com/team/APCSA-Block8-2122/ArrayScratch)
+
+
 **First** we will learn 2 new things related to arrays:
-    * [Array initializer lists](https://codehs.com/lms/assignment/60430564)
-    * [Enhanced for loops](https://codehs.com/lms/assignment/60430585) and [quick practice](https://codehs.com/lms/assignment/60430591)
+
+* [Array initializer lists](https://codehs.com/lms/assignment/60430564)
+* [Enhanced for loops](https://codehs.com/lms/assignment/60430585) and [quick practice](https://codehs.com/lms/assignment/60430591)
+
 **Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/6b1ED8MqACqMC7nL9)**
 * [ArrayPractice](https://replit.com/team/APCSA-Block8-2122/ArrayPractice)
 * [Unit 4 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223186/)
