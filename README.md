@@ -1,6 +1,7 @@
 # Links link
 ## Warmup
 * Open up your spreadsheet from the [shared folder](https://drive.google.com/drive/folders/1Mjjk9aMo4twE6UWEnXV9YLTr4X2uZvMW?usp=sharing) and ***update your ratings*** for the units in the **0: Plan** sheet
+* [JOIN CodeHS Course](https://codehs.com/go/F0EEA) if you haven't already
 
 ## Class
 [ArrayScratch](https://replit.com/team/APCSA-Block8-2122/ArrayScratch)
