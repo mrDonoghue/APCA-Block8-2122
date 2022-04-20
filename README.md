@@ -4,12 +4,14 @@
 * If you haven't signed up for runestone/CSA and CodeHS sign-up [here](https://github.com/mrDonoghue/APCSA-Block8-2122/blob/main/files/signup.md) 
 * **DON'T JUST SIT THERE.** If you finish, do old assignments or study
 ## Class
-[ArrayListScratch](https://replit.com/team/APCSA-Block8-2122/ArrayListScratch)
 
 
-**First** we will learn about ArrayLists:
-* [ArrayList Intro](https://runestone.academy/assignments/doAssignment?assignment_id=103093)
+**First** we will learn about searching and sorting:
+* Follow along in [Searching & Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103350)
 
+**Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/khN37V1bSnkm4ktbA)**
+* [FRQ3Intro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103430)
+* ***MAKE SURE YOU'VE FILLED OUT THE [ENGAGEMENT FORM](https://forms.gle/khN37V1bSnkm4ktbA)***
 **Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/DkyH5BqejxofoVLRA)**
 * [ArrayPractice](https://replit.com/team/APCSA-Block8-2122/ArrayPractice)
 * [Unit 4 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223186/)
