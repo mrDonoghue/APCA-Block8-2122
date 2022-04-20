@@ -1,11 +1,7 @@
 # Links link
 ## Warmup
-* [JOIN Runestone/CSA Course](https://runestone.academy/runestone/default/user/register) if you haven't already  
-Make an account and **use VAPCSA22 as the Course Name**.  
-(If you already have a runestone account, feel free to use your old account. Once logged in, click the Person-shaped icon to open the user menu and select "Change Course". Choose "Enroll in a Course" and use VAPCSA22 as the course name.)
-* If you didn't finish work from last class:
-    - [Array initializer lists](https://codehs.com/lms/assignment/60430564)
-    - [Enhanced for loops](https://codehs.com/lms/assignment/60430585) and [quick practice](https://codehs.com/lms/assignment/60430591)
+* Do a good chunk of [2DArrayIntro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103412) to practice 2D arrays. Don't feel like you need to do every single assignment. The goal is for you to practice until you feel somewhat comfortable.
+* If you haven't signed up for runestone/CSA and CodeHS sign-up [here](https://github.com/mrDonoghue/APCSA-Block8-2122/blob/main/files/signup.md) 
 * **DON'T JUST SIT THERE.** If you finish, do old assignments or study
 ## Class
 [ArrayListScratch](https://replit.com/team/APCSA-Block8-2122/ArrayListScratch)
@@ -14,10 +10,10 @@ Make an account and **use VAPCSA22 as the Course Name**.
 **First** we will learn about ArrayLists:
 * [ArrayList Intro](https://runestone.academy/assignments/doAssignment?assignment_id=103093)
 
-**Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/r2pRdpGmkPX2UJ8G8)**
+**Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/DkyH5BqejxofoVLRA)**
 * [ArrayPractice](https://replit.com/team/APCSA-Block8-2122/ArrayPractice)
 * [Unit 4 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223186/)
-* ***MAKE SURE YOU'VE FILLED OUT THE [ENGAGEMENT FORM](https://forms.gle/r2pRdpGmkPX2UJ8G8)***
+* ***MAKE SURE YOU'VE FILLED OUT THE [ENGAGEMENT FORM](https://forms.gle/DkyH5BqejxofoVLRA)***
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
@@ -28,6 +24,9 @@ Make an account and **use VAPCSA22 as the Course Name**.
 * [Bonus Practice](https://apclassroom.collegeboard.org/8/assessments/assignments/44830208/)
 * In [this repl](https://replit.com/team/APCSA-Block8-2122/FRQ2-Practice) complete the FRQs described [here](files/frq2.pdf)
 * [Unit 3 Progress Check](https://apclassroom.collegeboard.org/8/assessments/assignments/36223185/)
+* [Array initializer lists](https://codehs.com/lms/assignment/60430564)
+* [Enhanced for loops](https://codehs.com/lms/assignment/60430585) and [quick practice](https://codehs.com/lms/assignment/60430591)
+* [ArrayList Intro](https://runestone.academy/assignments/doAssignment?assignment_id=103093)
 
 ## Exam Prep
 * [Use the spreadsheet in shared](https://drive.google.com/drive/folders/1Mjjk9aMo4twE6UWEnXV9YLTr4X2uZvMW?usp=sharing)
