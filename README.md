@@ -6,7 +6,7 @@
 * **DON'T JUST SIT THERE.** If you finish, do old assignments or study
 ## Class
 **First** we will learn about inheritance:
-* Open [InheritanceIntro](https://replit.com/team/APCSA-Block5-2122/InheritanceIntro)
+* Open [InheritanceIntro](https://replit.com/team/APCSA-Block8-2122/InheritanceIntro)
 * Follow along in [InheritancePractice](https://runestone.academy/assignments/doAssignment?assignment_id=103800)
 
 **Then** we will have time to work. During this time, **keep track of what you work on [here](https://forms.gle/x8f1YUz2WjMFuW4F8)**
