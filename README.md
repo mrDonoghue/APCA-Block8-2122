@@ -8,6 +8,8 @@
 **First** we will learn a bit more about inheritance:
 * Open [InheritanceIntro](https://replit.com/team/APCSA-Block8-2122/InheritanceIntro)
 * Follow along in [InheritancePractice](https://runestone.academy/assignments/doAssignment?assignment_id=103800)
+
+
 **Then** we will have time to work.
 * [FRQ4Practice](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103952)
 ## Old
