@@ -1,17 +1,13 @@
 # Links link
 ## Warmup
-* If you haven't signed up for runestone/CSA and CodeHS sign-up [here](https://github.com/mrDonoghue/APCSA-Block8-2122/blob/main/files/signup.md)
+* [Inheritance check](https://apclassroom.collegeboard.org/8/assessments/assignments/46377899/)
 * STUDY!! My main suggestions until you're comfortable with them are [FRQ3Intro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103430) or 
-[2D ArrayIntro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103412)
 * **DON'T JUST SIT THERE.** If you finish, do old assignments or study
 ## Class
-**First** we will learn a bit more about inheritance:
-* Open [InheritanceIntro](https://replit.com/team/APCSA-Block8-2122/InheritanceIntro)
-* Follow along in [InheritancePractice](https://runestone.academy/assignments/doAssignment?assignment_id=103800)
-
+**First** I'll give some general reminders
 
 **Then** we will have time to work.
-* [FRQ4Practice](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103952)
+
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
 * [String Practice](https://replit.com/team/APCSA-Block8-2122/StringPractice)
@@ -29,7 +25,7 @@
 * [2D ArrayIntro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103412)
 * [Searching & Sorting](https://runestone.academy/assignments/doAssignment?assignment_id=103350)
 * [FRQ3Intro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103430)
-
+* [FRQ4Practice](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103952)
 ## Exam Prep
 * [Use the spreadsheet in shared](https://drive.google.com/drive/folders/1Mjjk9aMo4twE6UWEnXV9YLTr4X2uZvMW?usp=sharing)
 
