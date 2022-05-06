@@ -1,12 +1,9 @@
 # Links link
 ## Warmup
-* [Inheritance check](https://apclassroom.collegeboard.org/8/assessments/assignments/46377899/)
-* STUDY!! My main suggestions until you're comfortable with them are [FRQ3Intro](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103430) or 
-* **DON'T JUST SIT THERE.** If you finish, do old assignments or study
+* [reflection](https://forms.gle/jp2ByZyfXeLpDwsJ9)
 ## Class
-**First** I'll give some general reminders
-
-**Then** we will have time to work.
+* [FRQs](https://secure-media.collegeboard.org/apc/ap22-frq-computer-science-a.pdf)
+* TBD
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
