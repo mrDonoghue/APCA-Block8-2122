@@ -1,9 +1,14 @@
 # Links link
 ## Warmup
-* [reflection](https://forms.gle/jp2ByZyfXeLpDwsJ9)
+* [reflection if you didn't do it last time](https://forms.gle/jp2ByZyfXeLpDwsJ9)
 ## Class
-* [FRQs](https://secure-media.collegeboard.org/apc/ap22-frq-computer-science-a.pdf)
-* TBD
+* [AnimationIntro](https://replit.com/team/APCSA-Block8-2122/AnimationIntro)
+    - open up src/main/java/replit/Main.java
+    - see if you can figure out what the heck is going on
+    - can you make different things happen?
+    - why don't we see "Hello, World" on the canvas?
+    - Can you make the ball move?
+    - Can you make the ball bounce?
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
