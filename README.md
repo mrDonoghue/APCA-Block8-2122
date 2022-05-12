@@ -1,14 +1,16 @@
 # Links link
 ## Warmup
-* [reflection if you didn't do it last time](https://forms.gle/jp2ByZyfXeLpDwsJ9)
+* open up the repl and make the ball move at all
 ## Class
 * [AnimationIntro](https://replit.com/team/APCSA-Block8-2122/AnimationIntro)
     - open up src/main/java/replit/Main.java
     - see if you can figure out what the heck is going on
     - can you make different things happen?
-    - why don't we see "Hello, World" on the canvas?
     - Can you make the ball move?
     - Can you make the ball bounce?
+    - Can you make a bunch of balls? (For a start don't try to make balls bounce off each other)
+    - Can you make other shapes that move?
+    - Can you make the balls' radii change over time?
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
