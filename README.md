@@ -1,6 +1,6 @@
 # Links link
 ## Warmup
-* open up the repl and make the ball move at all
+None
 ## Class
 * [AnimationIntro](https://replit.com/team/APCSA-Block8-2122/AnimationIntro)
 * [AnimationLab](https://replit.com/team/APCSA-Block8-2122/AnimationLab) using instructions [here](/files/AnimationLab.md)
