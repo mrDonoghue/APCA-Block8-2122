@@ -4,7 +4,7 @@
 ## Class
 * Finish old work!
 * [AnimationLab](https://replit.com/team/APCSA-Block8-2122/AnimationLab) using instructions [here](/files/AnimationLab.md)
-* [FirstGameLab](https://replit.com/team/APCSA-Block8-2122/FirstGameLab)
+* [FirstGameLab](https://replit.com/team/APCSA-Block8-2122/FirstGameLab) using instructions [here](/files/FirstGameLab.md)
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
