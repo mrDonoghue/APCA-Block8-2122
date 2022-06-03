@@ -1,10 +1,7 @@
 # Links link
-## Warmup
-* Open up myViewpoint. Go to Progress. Go to the page for this course. Observe your incompletes. Make a plan to turn incompletes into completes ASAP
+
 ## Class
-* Finish old work!
-* [AnimationLab](https://replit.com/team/APCSA-Block8-2122/AnimationLab) using instructions [here](/files/AnimationLab.md)
-* [FirstGameLab](https://replit.com/team/APCSA-Block8-2122/FirstGameLab) using instructions [here](/files/FirstGameLab.md)
+* [Capstone lab](https://replit.com/team/APCSA-Block8-2122/KNN)
 
 ## Old
 * [Sem1Review](https://apclassroom.collegeboard.org/8/assessments/assignments/44423593/)
